@@ -1,0 +1,18 @@
+[
+    {
+        "address1": "",
+        "address2": "",
+        "cardmonth": "",
+        "cardnumber": "",
+        "cardtype": "",
+        "cardyear": "",
+        "city": "",
+        "country": "",
+        "cvv": "",
+        "firstname": "",
+        "lastname": "",
+        "phonenumber": "",
+        "postalcode": "",
+        "state": ""
+    }
+]
